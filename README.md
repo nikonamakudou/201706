@@ -33,7 +33,6 @@ git branch
 ```
 git fetch
 git checkout -b gh-pages
-git pull origin gh-pages
 ```
 ・gh-pagesがある場合
 ```
